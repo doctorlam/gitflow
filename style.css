@@ -1,4 +1,23 @@
 h1 {
 	color: green;
 	font-size: 24px;
+	font-family: arial;
+}
+header {
+	background: blue;
+	padding:20px;
+}
+nav ul li {
+	display: inline;
+		margin-left: 20px;
+		color: white;
+
+}
+nav ul {
+	list-style-type: none;
+}
+footer {
+	color: white;
+	background: green;
+	padding: 20px;
 }
